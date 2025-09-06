@@ -1,0 +1,21 @@
+{
+  "clinic_name": "HealthCare Plus Clinic",
+  "doctors": {
+    "general_medicine": ["Dr. Smith", "Dr. Johnson"],
+    "cardiology": ["Dr. Williams", "Dr. Brown"],
+    "dermatology": ["Dr. Davis", "Dr. Miller"],
+    "orthopedics": ["Dr. Wilson", "Dr. Moore"],
+    "pediatrics": ["Dr. Taylor", "Dr. Anderson"],
+    "neurology": ["Dr. Thomas", "Dr. Jackson"]
+  },
+  "working_hours": {
+    "weekdays": "9:00 AM - 6:00 PM",
+    "saturdays": "10:00 AM - 4:00 PM",
+    "sundays": "Closed"
+  },
+  "contact_info": {
+    "phone": "+1-555-123-4567",
+    "email": "info@healthcareplus.com",
+    "address": "123 Medical Plaza, Health City, HC 12345"
+  }
+}
