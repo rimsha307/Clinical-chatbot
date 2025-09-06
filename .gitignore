@@ -1,2 +1,10 @@
 .env
 appointmentbot-469811-a37b99063f58.json
+venv/ 
+__pycache__/ 
+.env 
+*.json 
+.env 
+*.json 
+venv/ 
+__pycache__/ 
